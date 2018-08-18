@@ -1,4 +1,4 @@
-# Spotify hits playlist maker
+# Spotify playlist maker
 
 ![Spotify logo](./Spotify_Logo_RGB_Green.png)
 
